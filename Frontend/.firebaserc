@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-first-app-a6": {
+      "hosting": {
+        "my-first-app": [
+          "my-first-app-a6"
+        ]
+      }
+    }
+  }
+}
